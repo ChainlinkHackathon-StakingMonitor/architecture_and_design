@@ -6,7 +6,7 @@
 
 ## Architecture
 
-![keeper_architecture](./architecture/contract_keeper.png.png)
+![keeper_architecture](./architecture/contract_keeper.png)
 
 ## Design
 
