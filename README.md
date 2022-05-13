@@ -4,8 +4,9 @@
 
 ![description](./staking_monitor_description.png)
 
-## Architecture
+## Architecture / Contract Design
 
+### keeper upkeepNeeded / performUpkeep
 ![keeper_architecture](./architecture/contract_keeper.png)
 
 ## Design
