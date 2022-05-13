@@ -12,7 +12,9 @@
 ## Design
 [Balsamiq Project](https://balsamiq.cloud/svalvtc/pykmylg/rECD4)
 
-
+### Original Design
 ![ui](./design/staking_monitor_ui.png)
+
+### UI: Latest Version
 
 ![ui_latest](./design/latest_ui.png)
